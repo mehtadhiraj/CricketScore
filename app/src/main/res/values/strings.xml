@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Cricket score</string>
+    <string name="teamA">Team A</string>
+    <string name="teamScore">0</string>
+    <string name="teamB">Team B</string>
+    <string name="score4">+4</string>
+    <string name="score6">+6</string>
+    <string name="noBall">No Ball</string>
+    <string name="wide">Wide</string>
+    <string name="incBall">+</string>
+    <string name="decBall">-</string>
+</resources>
